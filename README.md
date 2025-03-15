@@ -1,6 +1,7 @@
 ## 强化学习支持
 - 七圣召唤环境:LPSim
 - 目前DQN算法的Agent能正常对战,打LPSim自带RandomAgent胜率100%
+- 已经训练好的模型权重文件在RLAgent中
 
 ## 使用方法
 
