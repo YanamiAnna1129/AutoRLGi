@@ -3,6 +3,9 @@
 - 目前DQN算法的Agent能正常对战,打LPSim自带RandomAgent胜率100%
 - 已经训练好的模型权重文件在RLAgent中
 
+## api接口
+https://github.com/YanamiAnna1129/AutoGIapi
+
 ## 使用方法
 
 1. **以管理员身份运行该脚本**
